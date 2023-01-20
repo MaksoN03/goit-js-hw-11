@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const KEY = '32977164-db809f268a8ff4387fbfd100d';
+const KEY = '33002129-c8fefc6a81330199b280704a4';
 const BASE_URL = 'https://pixabay.com/';
 
 export async function Pictures(querry, page) {
